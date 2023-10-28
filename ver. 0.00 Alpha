@@ -1,0 +1,62 @@
+<body>
+    <div id="header">
+        <h1>Witaj na stronie głównej</h1>
+    </div>
+    <div id="content">
+        <center>
+        <h2>Czego Dowiesz Się Na Mojej Witrynie</h2>
+        <p>Cześć, bardzo sie cieszę że odwiedziłeś/aś moją strone dedykowaną Polskim drużynom w 4 sportach takich jak piłka nozna, siatkowka, koszykowka oraz pilka reczna. Tutaj możesz sie dowiedziec wielu rzeczy o wczesniej wspomianych sportach i na koniec rozwiązać test. Życzę miłych chwil na mojej stronie!</p>
+    </center>
+    </div>
+    <div id="footer">
+    </div>
+</body>
+    <p><b>O Danym Sporcie:</b></p>
+    <ul>
+        <li><a href="Nozna.html"><b>Piłka Nożna</b></a></li>
+        <p><i>Początki w piłce nożnej, bwspaniale lata 70 oraz obecna posucha od zwyciężania </i></p>
+        <li><a href="Siata.html"><b>Siatkówka</b></a></li>
+        <p><i>Początki w siatkowce, rozpoczęcie dobrej gry od lat 70 i dominacja w ostaniej dekadzie</i></p>
+        <li><a href="Kosz.html"><b>Koszykówka</b></a></li>
+        <p><i>Niewiele medali ale wiele dumy przez reprezentowanie swojej ojczyzny, "prawie" idealne lata 60</i></p>
+        <li><a href="Reczna.html"><b>Piłka Ręczna</b></a></li>
+        <p><i>3 medale od 2000 roku, czy Polska osiągnie w końcu wymarzone złoto</i></p>
+        <li><a href="Test.html"><b>Test</b></a></li>
+        <p><i>Jak przeczytałeś/aś wszystkie wpisy możesz tutaj rozwiąć test ile zapamiętałeś/aś</p>
+    </ul>
+       
+
+       
+       <style>
+       
+       
+       /* Style dla strefy nagłówka */
+        #header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Style dla strefy treści */
+        #content {
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        /* Style dla strefy stopki */
+        #footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    </div>
+    <div id="footer">
+        <p>Cyprian Sulej &copy; 2023</p>
+    </div>
+</body>
+</html>
