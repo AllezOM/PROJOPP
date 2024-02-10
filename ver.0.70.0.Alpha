@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LINKI</title>
+    <style>
+        body {
+            background-color: #333;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #222;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #444;
+            border-radius: 5px;
+        }
+
+        h1, h2, h3 {
+            color: #fff;
+        }
+    </style>
+</head>
+
+<center>  
+    <p><a href="Glowna.html"><b>Powrót do strony głównej</b></a></p>
+        </center>
+
+<body>
+
+    <header>
+        <h1>LINKI</h1>
+    </header>
+
+    <section id="about">
+        <h2>PIŁKA NOŻNA</h2>
+        <p>https://upload.wikimedia.org/wikipedia/commons/6/6b/Robert_Lewandowski_2018%2C_JAP-POL_%28cropped%29.jpg
+            https://upload.wikimedia.org/wikipedia/commons/3/3f/1_Jakub_B%C5%82aszczykowski.jpg
+            https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kamil_Glik_2018.jpg/330px-Kamil_Glik_2018.jpg
+            https://upload.wikimedia.org/wikipedia/commons/e/e8/W%C5%82odzimierz_Luba%C5%84ski_in_2012.jpg
+            https://legendyfutbolu.com/images/stories/00010467jvtguvx2-c317-f3.jpg
+        </p>
+    </section>
+
+    <section id="events">
+        <h2>SIATKÓWKA</h2>
+        <p>https://pl.wikipedia.org/wiki/Piotr_Gruszka_(siatkarz)
+            https://pl.wikipedia.org/wiki/Pawe%C5%82_Zagumny
+            https://archiwum.rp.pl/artykul/309167-Wieslaw-Gawlowski-nie-zyje.html
+        </p>
+    </section>
+
+    <section id="events">
+        <h2>KOSZYKÓWKA</h2>
+        <p>https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_%C5%81opatka
+            https://gazetawroclawska.pl/tag/dariusz-zelig
+            https://sport.interia.pl/koszykowka/reprezentacja-mezczyzn/news-85-lat-temu-urodzil-sie-wybitny-polski-koszykarz-janusz-wich,nId,4776432#google_vignette
+        </p>
+    </section>
+
+
+    <section id="summary">
+        <h2>PIŁKA RĘCZNA</h2>
+        <p>
+            https://pl.wikipedia.org/wiki/S%C5%82awomir_Szmal
+            https://pl.wikipedia.org/wiki/Karol_Bielecki
+            https://pl.wikipedia.org/wiki/Marcin_Lijewski</p>
+    </section>
+
+</body>
+</html>
+
