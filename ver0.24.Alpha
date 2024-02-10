@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Piłka Nożna</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Piłka Nożna</h1>
+</header>
+<center>  
+    <p><a href="Glowna.html"><b>Powrót do strony głównej</b></a></p>
+        </center>
+<section>
+  <center>
+    <h2>O Reprezentacji</h2>
+  </center>
+    <p>Reprezentacja Polski w piłce nożnej mężczyzn – drużyna piłkarska reprezentująca Rzeczpospolitą Polską w zawodach międzynarodowych. Za jej funkcjonowanie odpowiedzialny jest Polski Związek Piłki Nożnej, organ zarządzający piłką nożną w Polsce.
+        Głównym stadionem, na którym podejmuje rywali w roli gospodarza, jest obecnie Stadion Narodowy w Warszawie. Z kolei jedynym obiektem posiadającym nadane przez PZPN miano narodowego jest Stadion Śląski w Chorzowie
+    </p>
+</section>
+
+
+<section>
+    <center>
+      <h2>Udane Lata 70/80</h2>
+    </center>
+      <p>
+        Trenerem Kazimierz Górski. Pierwszym sprawdzianem były rozgrywane równolegle eliminacje ME 1972 oraz IO 1972. W tych pierwszych Polacy zanotowali kolejną porażkę, w meczach na IO do Monachium Polacy pokonali Bułgarów a z amatorską drużyną Hiszpanów zremisowali. W finale wygrali z Węgrami 2:1(królem strzelców został K. Deyna). Na następnych igrzyskach zajeli 2 miejsce.
+        Na mistrzostwach świata w 1974 równiż zdobyli srebrny medal a w 78 brązowy.
+      </p>
+  </section>
+
+
+  <section>
+    <center>
+      <h2>Rekordy</h2>
+    </center>
+    <p><b>1.</b> miejsce w ilosci występów ma Robert Lewandowski<b>(144)</b></p>     <img src="lewy.jpg" alt="lewy">                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+    <p><b>2.</b> miejsce w ilosci występów ma Jakub Błaszczykowski<b></b></p>   <img src="jakub.jpg" alt="jakub">
+    <p><b>3.</b> miejsce w ilosci występów ma Kamil Glik<b></b></p>                <img src="Glik.jpg" alt="Glik">                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+    <p><b>1.</b>miejsce w zdobytych bramkach dla reprezentowcji ma Robert Lewandowski<b></b> </p>  <img src="lewy.jpg">
+    <p><b>2.</b>miejsce w zdobytych bramkach dla reprezentowcji ma Włodzimierz Lubański<b></b></p>  <img src="Luba.jpg" alt="Luba"  width="330" height="402"> 
+    <p><b>3.</b> w zdobytych bramkach dla reprezentowcji ma Grzegorz Lato<b></b></p>   <img src="lato.jpg" alt="lato" width="330" height="402"> 
+    
+  </section>
+ 
+
+
+  <section>
+    <center>
+      <h2>Sukcesy</h2>
+    </center>
+    <p><b> Mistrzostwa świata:</b></p>
+    <p>Trzecie Miejsce 1974, 1982</p>
+    <p><b>Igrzyska Olimpijskie:</b></p> 
+    <p>Pierwsze Miejsce 1972</p> 
+    <p> Drugie Miejsce 1976, 1992</p>
+    <p><b>Razem Polska Zdobyła 5 Medali</b></p>
+
+</section>
+  
+<footer>
+  <p></p>
+</footer>
+
+</body>
+</html>
+
+
