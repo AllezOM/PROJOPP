@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Piłka Ręczna</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Piłka Ręczna</h1>
+</header>
+<center>  
+    <p><a href="Glowna.html"><b>Powrót do strony głównej</b></a></p>
+        </center>
+<section>
+  <center>
+    <h2>O Reprezentacji</h2>
+  </center>
+    <p>Reprezentacja Polski w piłce ręcznej mężczyzn (zwyczajowo zwana również: reprezentacją narodową, kadrą narodową, drużyną narodową) – zespół piłki ręcznej reprezentujący Rzeczpospolitą Polską w meczach i sportowych imprezach międzynarodowych, powoływany przez selekcjonera, w którym występować mogą wszyscy zawodnicy posiadający obywatelstwo polskie. Za jej funkcjonowanie odpowiedzialny jest Związek Piłki Ręcznej w Polsce
+    </p>
+</section>
+
+
+<section>
+    <center>
+      <h2>Pierwsze mecze i Mistrzostwa</h2>
+    </center>
+      <p>
+        Premierowy międzypaństwowy mecz drużyn siedmioosobowych reprezentacja Polski rozegrała w lipcu 1957. Zaledwie kilka miesięcy później wzięła udział w swej pierwszej oficjalnej imprezie międzynarodowej – III finałach Mistrzostw Świata, odbywających się w NRD. 27 lutego 1958 w Erfurcie
+      </p>
+  </section>
+
+
+  <section>
+    <center>
+      <h2>Rekordy</h2>
+    </center>
+    <p><b>1.</b>miejsce w ilosci występów ma Sławomir Szmal(298)</b></p>     <img src="szm.jpg" alt="lewy" width="330" height="402">                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    <p><b>2.</b>miejsce w ilosci występów ma Karol Bielecki<b></b></p>   <img src="rudy.jpg" alt="jakub" width="330" height="402"> 
+    <p><b>3.</b>miejsce w ilosci występów ma Marcin Lijewski<b></b></p>                <img src="Marcin_Lijewski_2009.JPG" alt="Glik" width="330" height="402">                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+    <p><b>1.</b>miejsce w zdobytych bramkach dla reprezentowcji ma Jerzy Klempel<b></b> </p>  <img src="klem.jpg" width="330" height="402">
+    <p><b>2.</b>miejsce w zdobytych bramkach dla reprezentowcji ma 	Karol Bielecki<b></b></p>  <img src="rudy.jpg" alt="Luba"  width="330" height="402"> 
+    <p><b>3.</b>miejsce w zdobytych bramkach dla reprezentowcji ma 	Bogdan Wenta<b></b></p>   <img src="wenta.jpg" alt="lato" width="330" height="402"> 
+  </section>
+ 
+
+
+  <section>
+    <center>
+      <h2>Sukcesy</h2>
+    </center>
+    <p><b> Mistrzostwa świata:</b></p>
+    <p>2 Miejsce 2007</p>
+    <p>3 Miejsce 1982, 2009, 2015</p>
+    <p><b>Igrzyska Olimpijskie:</b></p> 
+    <p>3 Miejsce 1976</p> 
+    <p><b>Razem Polska Zdobyła 4 Medale</b></p>
+
+</section>
+  
+<footer>
+  <p></p>
+</footer>
+
+</body>
+</html>
